@@ -1,2 +1,6 @@
-opencv-python
-mediapipe==0.10.9
+mediapipe==0.10.32
+opencv-contrib-python==4.13.0.92
+scikit-learn==1.8.0
+joblib==1.5.1
+numpy==2.4.3
+pandas==3.0.1
